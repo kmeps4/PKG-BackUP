@@ -16,7 +16,8 @@ Version 1.1
 - Added Copy Percentage Progress notification.
 
 ## Special Thanks
-
+  
+  [//]: #
   [SiSTRo]: <https://github.com/SiSTR0>
   [CTN]: <https://github.com/ctn123>
   [Bucanero]: <https://github.com/bucanero>
