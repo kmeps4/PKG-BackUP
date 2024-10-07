@@ -13,6 +13,9 @@ Version 1.1:
 - Added compatibility with extended storage drive on /mnt/ext0/..
 - Added Copy Percentage Progress notification.
 
+Version 1.2:
+- Added support to PS4 firmware from 9.03 to 11.00
+
 ## Special Thanks
 Massive credits to the following:
 - [SiSTRo](https://github.com/SiSTR0)
