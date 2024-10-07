@@ -9,7 +9,9 @@ Version 1.0:
 
 Version 1.1:
 - Added "config.cfg" configuration file, this will allow the user to set-up following parameters (You need to add this file on root of External HDD):
-  ![image](![alt text](image.png))
+  ![image](https://github.com/user-attachments/assets/e6606b32-546e-4b57-8105-ce6b586979c2)
+
+  
 - Added compatibility with extended storage drive on /mnt/ext0/..
 - Added Copy Percentage Progress notification.
 
